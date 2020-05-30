@@ -2,7 +2,7 @@
 #include "ZFraction.h"
 using namespace std;
 
-int int main(int argc, char const *argv[]) {
+ int main(int argc, char const *argv[]) {
   ZFraction a(4,5);
   ZFraction b(2);
   ZFraction c, d;
